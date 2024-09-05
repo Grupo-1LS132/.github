@@ -1,10 +1,10 @@
 # Big-Project-DSVIII
 
-Bienvenidos al repositorio de Desarrollo de Software VII del grupo 1LS-132.
+Bienvenidos a la organización de Desarrollo de Software VIII del grupo 1LS-132.
 
 ## Descripción Del Proyecto
 
-Este proyecto esta cimentado en la Investigación #1 de Desarrollo de Software VII, cada grupo esta vinculado a una distinta etapa del desarrollo del mismo y cada una de las etapas toma como base lo realizado por los compañeros de la etapa anterior. Se les exhorta a todo a ser ordenados con cada uno de los elementos que desarrollen e/o importen en este proyecto, todo con el fin de que la experiencia propia y la de los compañeros subsecuentes sea lo más fructífera y eficiente posible.
+Este proyecto esta cimentado en la Investigación #1 de Desarrollo de Software VIII, cada grupo esta vinculado a una distinta etapa del desarrollo del mismo y cada una de las etapas toma como base lo realizado por los compañeros de la etapa anterior. Se les exhorta a todo a ser ordenados con cada uno de los elementos que desarrollen e/o importen en este proyecto, todo con el fin de que la experiencia propia y la de los compañeros subsecuentes sea lo más fructífera y eficiente posible.
 
   
 
@@ -22,9 +22,9 @@ Este proyecto esta cimentado en la Investigación #1 de Desarrollo de Software V
 
 1. Mantener el código **ordenado y documentado**.
 2. Consultar con su **coordinador** al momento de solicitar un **Push** al **Branch de su grupo**.
-3. Al momento de **terminar** de desarrollar su etapa, el **coordinador del grupo** deberá avisar a los **administradores** para una **ultima revision**, en el caso de **pasar la revision**, se fusionara con el **Main Branch**.
+3. Al momento de **terminar** de desarrollar su etapa, el **coordinador del grupo** deberá avisar a los **administradores** para una **ultima revision**, en el caso de **pasar la revision**, se fusionara con el **Repositorio de Producción**.
 4. En el caso de que lo que ha desarrollado genere algún tipo de **archivo temporal**, avisar a los **administradores** para **evitar añadir archivos innecesarios** al repositorio.
-5. **Si necesitan crear algún branch** para **agilizar** el desarrollo de su etapa, el **coordinador** deberá avisar a los **administradores**.
+5. **Si necesitan crear algún branch** para **agilizar** el desarrollo de su etapa, el **coordinador** de su grupo se encargara de eso.
 6. **Si necesitan** algún tipo de **ayuda** relacionada con el **código de otro grupo**, hablar con el **coordinador** de dicho grupo.
 7. **Aprovechen** esta oportunidad para **aprender de sus compañeros** y **tomen la iniciativa** de buscar **mejores y más eficientes soluciones a los problemas** que se encuentren en el camino.
 
@@ -72,7 +72,7 @@ Dentro del ReadMe de cada repositorio estara más clara esta parte.
 ## Contribuciones
 
 A la hora de contribuir hay unas cuantas cosas a las que hay que apegarse.
-1. **Todas las contribuciones** que se realicen deben realizarse en el **Branch asignado a su grupo**, o en caso de tener más de un Branch, deberá ser en el **Branch asignado a la funcionalidad**.
+1. **Todas las contribuciones** que se realicen deben realizarse en el **Repositorio asignado a su grupo**, o en caso de tener más de un Branch, deberá ser en el **Branch asignado a la funcionalidad**.
 2. **Todas las contribuciones** serán **revisadas** y posteriormente **aprobadas** por el **coordinador** de su grupo.
 
 Fuera de eso hay muchas formas de contribuir, no todo es solamente programar, una buena documentación escrita y presentada ordenadamente en un pdf es algo que se aprecia mucho en el campo laboral. Por otra parte, también se puede colaborar con los demás grupos tanto para apoyarlos a la hora de leer el código de tu grupo como para dar ideas y distintos puntos de vista que puedan mejorar el trabajo de los demás, lo cual se consigue con una buena comunicación. Recuerden, todo el salon es un equipo al fin y al cabo.
@@ -83,7 +83,8 @@ Fuera de eso hay muchas formas de contribuir, no todo es solamente programar, un
 
 **OJO** No es necesario que tengan **Todas las Pruebas** registradas, pero en caso de tener algún problema persistente, es la mejor forma de conseguir ayuda.
 
-Al realizar pruebas documenten con el día, grupo, funcionalidad y error, en caso de que se presente este ultimo. Ejemplo: `04092024-grupoG-componenteDLL-ERROR` 
+Al realizar pruebas documenten con el día, grupo, funcionalidad y error, en caso de que se presente este ultimo. Ejemplo: `04092024-grupoG-componenteDLL-ERROR`. 
+
 Luego de eso, dar una breve descripción del error presentado y compartirlo de ser necesario. 
 
-Finalmente, todas las capturas deberán guardarlas en una carpeta de Pruebas que haya designado su propio grupo, preferible que sea fuera del repositorio. Recomiendo usar drive para esto y utilizar una carpeta por funcionalidad.
+Finalmente, todas las capturas deberán guardarlas en una carpeta de Pruebas que haya designado su coordinadoe, preferible que sea fuera del repositorio para no saturar el almacenamiento.
