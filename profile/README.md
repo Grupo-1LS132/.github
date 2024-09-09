@@ -87,4 +87,4 @@ Al realizar pruebas documenten con el día, grupo, funcionalidad y error, en cas
 
 Luego de eso, dar una breve descripción del error presentado y compartirlo de ser necesario. 
 
-Finalmente, todas las capturas deberán guardarlas en una carpeta de Pruebas que haya designado su coordinadoe, preferible que sea fuera del repositorio para no saturar el almacenamiento.
+Finalmente, todas las capturas deberán guardarlas en una carpeta de Pruebas que haya designado su coordinador, puden crear la carpeta dentro del repositorio de su grupo o si desean pueden crearla fuera del repositorio para ocupar menos espacio.
