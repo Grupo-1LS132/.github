@@ -39,7 +39,7 @@ Este proyecto esta cimentado en la Investigación #1 de Desarrollo de Software V
 |   C   |       Juan Mock (maicc)       |  **ACCESO A BASES DE DATOS** y Manejo de Formularios MDI.   |
 |   D   |  Maxwell Baxter (MaxwellBM)   |           **ACCESO A BASES DE DATOS** y ListView.           |
 |   E   |     Cesar Flores (csarf)      |       **ACCESO A BASES DE DATOS** y Cajas de Diálogo.       |
-|   F   |      Fernando Toribio ()      |  **APLICACIONES EN CAPAS USANDO COMPONENTES** y ToolStrip.  |
+|   F   |      Fernando Toribio (FernandoToribio)      |  **APLICACIONES EN CAPAS USANDO COMPONENTES** y ToolStrip.  |
 |   G   |  Reynaldo Pedroza (NotWeiss)  | **APLICACIONES EN CAPAS USANDO COMPONENTES** y Animaciones. |
 |   H   |    Noely Pinzon (tkyo211)     |                **APLICACIONES WEB CON ASP**                 |
 
